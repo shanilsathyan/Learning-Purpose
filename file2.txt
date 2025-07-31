@@ -1,1 +1,2 @@
 This is my new file
+added another line by git user
