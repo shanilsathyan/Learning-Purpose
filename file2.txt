@@ -1,4 +1,9 @@
 added first line by git hub
 This is my new file modified by master
 added another line by git user
+<<<<<<< HEAD
 added last line by me
+=======
+this is my trial shot
+
+>>>>>>> 15d16e4cc77ef8d6602238aef11973d14d5452bb
